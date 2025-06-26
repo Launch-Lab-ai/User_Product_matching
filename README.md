@@ -10,12 +10,14 @@ Features
 - Outputs user scores and product-user matches as CSV files
 
 Data
-User data: Train.csv (from Kaggle dataset)
-Product data: flipkart_buckets_single_label.csv (from Team B)
+- User data: Train.csv (from Kaggle dataset)
+- Product data: flipkart_buckets_single_label.csv (from Team B)
 
 (Can replace with another product dataset if needed)
 
 Output Files
+
 user_bucket_scores.csv: User IDs and their scores for each bucket
+
 product_user_matches.csv: Product info and the top 3 matched users with their scores
 
