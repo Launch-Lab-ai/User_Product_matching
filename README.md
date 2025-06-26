@@ -12,7 +12,8 @@ Features
 Data
 User data: Train.csv (from Kaggle dataset)
 Product data: flipkart_buckets_single_label.csv (from Team B)
-**Can replace later with a different product dataset
+
+(Can replace with another product dataset if needed)
 
 Output Files
 user_bucket_scores.csv: User IDs and their scores for each bucket
