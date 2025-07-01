@@ -25,7 +25,7 @@ THRESHOLDS = {
     'Fashion': 3,
     'Luxury': 4,
     'Tech': 4,
-    'Home': 2,
+    'Home': 3,
     'Furniture': 3,
     'Footwear': 2,
     'Auto': 3,
